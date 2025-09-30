@@ -1,4 +1,8 @@
+<<<<<<< HEAD
   module Lib1
+=======
+module Lib1
+>>>>>>> upstream/main
     ( examples, Command(..), Dumpable(..)
     ) where
 

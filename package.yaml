@@ -49,6 +49,14 @@ executables:
     dependencies:
     - fp2025
     - repline
+  fp2025-two:
+    main:                Main.hs
+    source-dirs:         app2
+    ghc-options:
+    - -rtsopts
+    dependencies:
+    - fp2025
+    - repline
 
 tests:
   fp2024-test:
