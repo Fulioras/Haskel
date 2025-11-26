@@ -2,6 +2,8 @@
 
 # DOMAIN - TASK MANAGER
 
+Can be viewed [here](https://vipo.github.io/fp-2025/)
+
 Main commannds
 - 'add' - adds a new task or a subtask to a task
 - 'remove' - removes a task/subtask
