@@ -50,3 +50,17 @@ BNF form
 ### To Build & Test the Project, run the following commands
 1. `stack build`
 2. `stack test`
+
+
+# State Persistence
+
+The lab3 program now saves state to "state.txt" as a command list that the program executes at startup.
+
+Program start:
+![Alt text](src/lab3-ProgramStart.png)
+Looking at the program state:
+![Alt text](src/lab3-State1.png)
+State file after ending the program:
+![Alt text](src/lab3-state-file.png)
+State is recovered when program restarts:
+![Alt text](src/lab3-state2.png)
